@@ -1,0 +1,12 @@
+Rapport Empreinte Carbone - Salimata Bane  SECK
+
+Activités de transport :
+ - voiture : 12.0 km → 2.30 kg CO₂
+ - avion : 1000.0 km → 255.00 kg CO₂
+
+Activités alimentaires :
+ - boeuf : 12.0 kg → 324.00 kg CO₂
+ - volaille : 15.0 kg → 103.50 kg CO₂
+ - produits_laitiers : 0.5 kg → 6.50 kg CO₂
+
+TOTAL ÉMISSIONS : 691.30 kg CO₂/jour
